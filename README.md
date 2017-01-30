@@ -1,10 +1,10 @@
 # Machine Learning Docker Environment
 
-NLDS docker environment for machine learning with GPU support.
+MLDS docker environment for machine learning with GPU support.
 
 # How to use
 
-Follow the steps and turn an empty instance to a ready-to-go deep-learning environment in 30 mins.
+Follow the steps and turn an empty instance to a ready-to-go deep learning environment in 30 mins.
 
 * **0-prepare-host.sh**   
   install docker, nvidia driver, nvidia-docker in your host machine.
