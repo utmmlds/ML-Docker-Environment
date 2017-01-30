@@ -12,7 +12,7 @@ nvidia-docker run -d \
   -p 8880-8900:8880-8900 -p 80:80 -p 443:443 \
   -it marsan/mldm_gpu
 
-##  -h mldm_env \ 
+##  -h mlds_env \ 
 ##  -p 6800-6810:6800-6810 \
 ##docker run -it kaggle/python bash 
 
